@@ -17,5 +17,7 @@
 ### :man_technologist: Обо мне :
 
 - :desert_island: отдыхаю
+  
 - :hear_no_evil:учусь
+  
 - :running_man:качаюсь
