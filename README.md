@@ -38,5 +38,5 @@
 
 ### :trophy: Достижения:
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=alishka52" alt=""/>
+  <img src="src="https://github-profile-trophy.vercel.app/?username=alishka52"" alt=""/>
 </div>
