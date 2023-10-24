@@ -37,3 +37,7 @@
 
 
 ### :trophy: Достижения:
+<div>
+  <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=alishka52" alt=""/>
+
+</div>
