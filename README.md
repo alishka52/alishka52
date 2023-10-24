@@ -10,5 +10,5 @@
   <img src = "https://komarev.com/ghpvc/?username=alishka52&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="heythere" align="center">
-<h1>Профиль на GITHUB</h1>
+  <h1>Профиль на GITHUB</h1>
 </div>
