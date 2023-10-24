@@ -14,4 +14,4 @@
 </div>
 
 
-### man_technologist: Обо мне :
+### :man_technologist: Обо мне :
