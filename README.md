@@ -24,3 +24,13 @@
 
 
 ### :hammer_and_wrench: Языки и Инструменты:
+
+
+<div>
+  <img src="icons/github/github-original-wordmark.svg" width="40" height="40"/>
+  <img src="icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="icons/python/python-original-wordmark.svg" width="40" height="40"/>
+</div>
