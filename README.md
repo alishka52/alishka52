@@ -1,5 +1,5 @@
 <div id="badges" align ="center">
-<a href = "https://t.me/alishka_komilov" >
+<a href = "https://t.me/alishka_komilov" widht="50" height ="50" >
   <img src = "https://img.shields.io/badge/TG-blue?style=for-the-badges&logo=TG&logoColor=white" alt="TG Badge"/>
 </a>
 <a href = "https://mail.google.com/mail/u/0/#inbox">
