@@ -1,6 +1,6 @@
 <div id="badges" align ="center">
-<a href = "https://vk.com/a_lis_hka" 
-  <img src = "https://img.shields.io/badge/VK-blue?style=fon-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+<a href = "https://vk.com/a_lis_hka" >
+  <img src = "https://img.shields.io/badge/TG-blue?style=for-the-badges&logo=TG&logoColor=white" alt="TG Badge"/>
 </a>
 <a href = "https://mail.google.com/mail/u/0/#inbox">
   <img src = "https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="VK Badge"/>
